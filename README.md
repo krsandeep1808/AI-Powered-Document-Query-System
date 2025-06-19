@@ -123,7 +123,7 @@ For deployment:
 
 ---
 
-### 👤 Author / Contributors
+### 👤 Author
 
 * Sandeep Kumar
 * Contribution welcome via PRs or issue discussions.
