@@ -1,4 +1,4 @@
-## 📘 Project Documentation: **AI-Powered Document Query System**
+## AI-Powered Document Query System**
 
 ### 🧾 Overview
 
