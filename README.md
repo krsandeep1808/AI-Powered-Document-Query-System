@@ -2,7 +2,7 @@
 
 ### 🧾 Overview
 
-This full-stack application allows users to upload documents (e.g., PDF) and ask questions related to the content. The system utilizes **NLP (Natural Language Processing)** techniques to analyze documents and return context-aware answers, enabling a **Retrieval-Augmented Generation (RAG)** experience.
+This full-stack application allows users to upload documents (e.g., PDF, ppt, csv etc) and ask questions related to the content. The system utilizes **NLP (Natural Language Processing)** techniques to analyze documents and return context-aware answers, enabling a **Retrieval-Augmented Generation (RAG)** experience.
 
 ---
 
@@ -132,4 +132,4 @@ For deployment:
 
 ### 🪪 License
 
-This project is under the **MIT License** (or specify another if applicable).
+This project is under the **MIT License** .
